@@ -1,4 +1,4 @@
-BEEJ-INVESTOR-FOUNDER-PLATFORM.
+INVESTOR-FOUNDER-BEEJ-PLATFORM.
 
 This investment website serves as a platform for customers to engage in investment activities. Designed using HTML and CSS, the site offers a static yet user-friendly interface, allowing visitors to explore investment opportunities effortlessly. The website provides essential information about various investment options, including details on risk levels, potential returns, and other relevant factors. Users can navigate through the platform to make informed investment decisions.
 ![Page_1](https://github.com/gopu001/BEEJ_WEBSITE/assets/134700849/dbd94eb4-d209-46f0-a997-c6008ba95498)
